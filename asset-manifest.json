@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alarm-system/static/css/main.073c9b0a.css",
+    "main.js": "/alarm-system/static/js/main.2d06fa69.js",
+    "static/js/787.98d4b480.chunk.js": "/alarm-system/static/js/787.98d4b480.chunk.js",
+    "static/media/logo.svg": "/alarm-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alarm-system/index.html",
+    "main.073c9b0a.css.map": "/alarm-system/static/css/main.073c9b0a.css.map",
+    "main.2d06fa69.js.map": "/alarm-system/static/js/main.2d06fa69.js.map",
+    "787.98d4b480.chunk.js.map": "/alarm-system/static/js/787.98d4b480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d06fa69.js"
+  ]
+}
